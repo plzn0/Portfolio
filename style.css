@@ -1,0 +1,117 @@
+/* Homepage css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: linear-gradient(135deg, #6295b8 30%, #714aaf 90%);
+    color: #fff;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+img.rounded-circle {
+    border: 5px solid white;
+}
+
+h4 {
+    color: #333;
+    margin-top: 10px;
+}
+
+.navbar-light .navbar-brand {
+    font-weight: bold;
+    color: #333;
+}
+
+.nav-link {
+    color: #333;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #FFC000;
+}
+
+/* Resume page css */
+
+.text-white a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.justify-text {
+    text-align: justify;
+}
+
+.btn {
+    background: linear-gradient(135deg, #6295b8 30%, #714aaf 90%);
+    color: #fff;
+    padding: 10px 30px;
+    border: none;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #a17c0e;
+}
+
+/* Contact page css */
+#contact {
+    background:  #333;
+    color:  #333;
+  }
+  
+  #contact h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+  }
+  
+  .card h4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 550;
+  }
+  
+  .card ul li {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .social-icons a {
+    margin-right: 15px;
+  }
+  
+  .form-label {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+  }
+  
+  
+  .btn1 {
+    background: linear-gradient(135deg, #6295b8 30%, #714aaf 90%);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+
+  .btn1:hover {
+    background: #a17c0e;
+  }
+  
+
+
+
